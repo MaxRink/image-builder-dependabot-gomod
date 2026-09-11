@@ -1,5 +1,5 @@
 module sigs.k8s.io/image-builder/images/capi/packer/config/kubernetes-version-dependencies/release-1-34/kubernetes
 
-go 1.24.0
+go 1.25.0
 
-require k8s.io/client-go v0.34.10
+require k8s.io/client-go v0.34.11
