@@ -1,5 +1,5 @@
 module sigs.k8s.io/image-builder/images/capi/packer/config/kubernetes-version-dependencies/release-1-35/containerd
 
-go 1.26.3
+go 1.26.8
 
-require github.com/containerd/containerd/v2 v2.3.2
+require github.com/containerd/containerd/v2 v2.3.6
