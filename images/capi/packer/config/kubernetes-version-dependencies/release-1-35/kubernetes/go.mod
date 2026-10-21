@@ -2,4 +2,4 @@ module sigs.k8s.io/image-builder/images/capi/packer/config/kubernetes-version-de
 
 go 1.25.0
 
-require k8s.io/client-go v0.35.7
+require k8s.io/client-go v0.35.8
