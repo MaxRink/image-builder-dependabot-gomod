@@ -2,4 +2,4 @@ module sigs.k8s.io/image-builder/images/capi/packer/config/kubernetes-version-de
 
 go 1.24.2
 
-require github.com/containernetworking/plugins v1.8.0
+require github.com/containernetworking/plugins v1.9.0
