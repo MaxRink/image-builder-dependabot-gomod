@@ -1,2 +1,2 @@
-k8s.io/client-go v0.34.10 h1:JP3CRMsHRn4cX8XSWZujrCtqEXHe196LiKVNk4JcUyY=
-k8s.io/client-go v0.34.10/go.mod h1:YAg8H6f2c9VUTyclFx2S5IGfHbvOrTXpSierUCjrYNE=
+k8s.io/client-go v0.34.11 h1:ibO8IP6RMp6JImv47JIW6ZUcZky98zLnzaGIsD6yQWM=
+k8s.io/client-go v0.34.11/go.mod h1:MxE93lNP2kK12JL4S74ddZctG0Pt6JVLiK8nLwlMxyY=
